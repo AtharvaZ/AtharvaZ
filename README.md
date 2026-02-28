@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: [Personal Website](https://azaveri.dev/)
 🔭 I’m currently working on my capstone project which involves a company based in Canada.<br>👯 I’m looking to collaborate on projects involving AI agents and solves real world problems.<br>🌱 I’m currently learning cloud technologies especially AWS.<br>
 
 
