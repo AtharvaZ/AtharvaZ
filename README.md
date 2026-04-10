@@ -19,26 +19,10 @@
 
 ---
 
-<!-- Stats row: streak (full width) -->
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=AtharvaZ&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B"
     alt="GitHub Streak"
-  />
-</p>
-
-<!-- Stats row: GitHub stats + top languages side by side -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AtharvaZ&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
-    alt="GitHub Stats"
-    height="180"
-  />
-  &nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaZ&layout=compact&theme=dark&hide_border=true&langs_count=6"
-    alt="Top Languages"
-    height="180"
   />
 </p>
 
@@ -82,13 +66,3 @@
 | [**ClinIQ**](https://github.com/AtharvaZ/cliniq) | Medical diagnostic training with AI patient simulation and 62 validated cases |
 | [**FileSearch**](https://github.com/AtharvaZ/filesearch) | Semantic search over 22,000 files using FAISS + sentence-transformers |
 | [**Arverié**](https://github.com/AtharvaZ/arverie) | AI-guided expressive art reflection with voice, built on Claude + Hume EVI |
-
----
-
-<!-- Top contributed repos -->
-<p align="center">
-  <img
-    src="https://github-contributor-stats.vercel.app/api?username=AtharvaZ&limit=5&theme=flat&combine_all_yearly_contributions=true&hide_border=true"
-    alt="Top Contributed Repos"
-  />
-</p>
