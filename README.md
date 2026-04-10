@@ -1,21 +1,94 @@
-# 💫 About Me: [Personal Website](https://azaveri.dev/)
-🔭 I’m currently working on my capstone project which involves a company based in Canada.<br>👯 I’m looking to collaborate on projects involving AI agents and solves real world problems.<br>🌱 I’m currently learning cloud technologies especially AWS.<br>
+<h1 align="center">Hey, I'm Atharva 👋</h1>
 
+<p align="center">
+  CS student @ Arizona State University &nbsp;·&nbsp; Full-Stack AI Engineer &nbsp;·&nbsp; Building things that feel human
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atharva-zaveri/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharvazaveri4@gmail.com) 
+<p align="center">
+  I work at ASU's <strong>AWS × AI Cloud Innovation Center</strong> — shipping real AWS infrastructure for external clients. <br/>
+  I care about design, AI integration, and products that are actually useful.
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AtharvaZ&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AtharvaZ&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaZ&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AtharvaZ&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://azaveri.dev">🌐 azaveri.dev</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/atharvaz">💼 LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:atharva@azaveri.dev">✉️ Email</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AtharvaZ&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Stats row: streak (full width) -->
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=AtharvaZ&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700"
+    alt="GitHub Streak"
+  />
+</p>
+
+<!-- Stats row: GitHub stats + top languages side by side -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AtharvaZ&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
+    alt="GitHub Stats"
+    height="180"
+  />
+  &nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaZ&layout=compact&theme=transparent&hide_border=true&langs_count=6"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
+
+---
+
+### 🔨 Things I build with
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=openjdk&logoColor=white)
+
+**Frameworks & libraries**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+**Infrastructure & deployment**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+
+---
+
+### 🚀 Featured projects
+
+| Project | What it does |
+|---|---|
+| [**Scaffy AI**](https://github.com/AtharvaZ/scaffy-ai) | Multi-agent educational scaffolding platform — 85% latency reduction via batch processing |
+| [**ClinIQ**](https://github.com/AtharvaZ/cliniq) | Medical diagnostic training with AI patient simulation and 62 validated cases |
+| [**FileSearch**](https://github.com/AtharvaZ/filesearch) | Semantic search over 22,000 files using FAISS + sentence-transformers |
+| [**Arverié**](https://github.com/AtharvaZ/arverie) | AI-guided expressive art reflection with voice, built on Claude + Hume EVI |
+
+---
+
+<!-- Top contributed repos -->
+<p align="center">
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=AtharvaZ&limit=5&theme=flat&combine_all_yearly_contributions=true&hide_border=true"
+    alt="Top Contributed Repos"
+  />
+</p>
