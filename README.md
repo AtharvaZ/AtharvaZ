@@ -22,7 +22,7 @@
 <!-- Stats row: streak (full width) -->
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=AtharvaZ&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700"
+    src="https://github-readme-streak-stats.herokuapp.com?user=AtharvaZ&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B"
     alt="GitHub Streak"
   />
 </p>
@@ -30,13 +30,13 @@
 <!-- Stats row: GitHub stats + top languages side by side -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AtharvaZ&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=AtharvaZ&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
     alt="GitHub Stats"
     height="180"
   />
   &nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaZ&layout=compact&theme=transparent&hide_border=true&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaZ&layout=compact&theme=dark&hide_border=true&langs_count=6"
     alt="Top Languages"
     height="180"
   />
